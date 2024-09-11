@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-11": 67,
+      "2024-09-11": 125,
       "2024-09-10": 504
     }
   },
@@ -145,7 +145,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-11": 67,
+      "2024-09-11": 125,
       "2024-09-10": 504
     }
   },
@@ -184,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-11": 67,
+      "2024-09-11": 125,
       "2024-09-10": 504
     }
   },
@@ -331,7 +331,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-11": 67,
+      "2024-09-11": 125,
       "2024-09-10": 504
     }
   },
@@ -358,19 +358,19 @@
     "url": "https://www.isfaktoring.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.isfaktoring.com.tr.ico",
     "slug": "is-faktoring",
-    "status": "down",
-    "uptime": "95.67%",
-    "uptimeDay": "95.67%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "95.67%",
-    "uptimeYear": "95.67%",
-    "time": 2392,
-    "timeDay": 2392,
-    "timeWeek": 2392,
-    "timeMonth": 2392,
-    "timeYear": 2392,
+    "status": "up",
+    "uptime": "87.03%",
+    "uptimeDay": "87.03%",
+    "uptimeWeek": "87.03%",
+    "uptimeMonth": "87.03%",
+    "uptimeYear": "87.03%",
+    "time": 2323,
+    "timeDay": 2323,
+    "timeWeek": 2323,
+    "timeMonth": 2323,
+    "timeYear": 2323,
     "dailyMinutesDown": {
-      "2024-09-11": 25
+      "2024-09-11": 81
     }
   },
   {
@@ -379,18 +379,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.izdemir.com.tr.ico",
     "slug": "izdemir",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-11": 67,
+      "2024-09-11": 125,
       "2024-09-10": 503
     }
   },
@@ -544,11 +544,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.obase.com.ico",
     "slug": "obase",
     "status": "up",
-    "uptime": "96.98%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "96.98%",
+    "uptime": "97.25%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "97.25%",
     "time": 1644,
     "timeDay": 1644,
     "timeWeek": 1644,
@@ -635,18 +635,20 @@
     "url": "https://www.satemgrup.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.satemgrup.com.tr.ico",
     "slug": "satem-grup",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1309,
     "timeDay": 1309,
     "timeWeek": 1309,
     "timeMonth": 1309,
     "timeYear": 1309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-11": 1
+    }
   },
   {
     "name": "Servisair",
@@ -665,7 +667,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-11": 67,
+      "2024-09-11": 125,
       "2024-09-10": 503
     }
   },
