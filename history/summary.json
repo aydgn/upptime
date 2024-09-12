@@ -22,19 +22,19 @@
     "url": "https://internetsube.hdifibaemeklilik.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/internetsube.hdifibaemeklilik.com.tr.ico",
     "slug": "hdi-fiba-emeklilik-internet-sube",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1287,
-    "timeDay": 1268,
-    "timeWeek": 1287,
-    "timeMonth": 1287,
-    "timeYear": 1287,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 1192,
+    "timeDay": 1087,
+    "timeWeek": 1192,
+    "timeMonth": 1192,
+    "timeYear": 1192,
     "dailyMinutesDown": {
-      "2024-09-12": 3
+      "2024-09-12": 12
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1354,
+      "2024-09-12": 1364,
       "2024-09-11": 1440,
       "2024-09-10": 504
     }
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1354,
+      "2024-09-12": 1364,
       "2024-09-11": 1440,
       "2024-09-10": 504
     }
@@ -188,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1354,
+      "2024-09-12": 1364,
       "2024-09-11": 1440,
       "2024-09-10": 504
     }
@@ -252,19 +252,19 @@
     "url": "https://www.fibaair.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fibaair.com.tr.ico",
     "slug": "fiba-air",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1264,
-    "timeDay": 1203,
-    "timeWeek": 1264,
-    "timeMonth": 1264,
-    "timeYear": 1264,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 1154,
+    "timeDay": 1013,
+    "timeWeek": 1154,
+    "timeMonth": 1154,
+    "timeYear": 1154,
     "dailyMinutesDown": {
-      "2024-09-12": 2
+      "2024-09-12": 11
     }
   },
   {
@@ -272,19 +272,19 @@
     "url": "https://www.fibafaktoring.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fibafaktoring.com.tr.ico",
     "slug": "fiba-faktoring",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 6289,
-    "timeDay": 6232,
-    "timeWeek": 6289,
-    "timeMonth": 6289,
-    "timeYear": 6289,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 5306,
+    "timeDay": 4294,
+    "timeWeek": 5306,
+    "timeMonth": 5306,
+    "timeYear": 5306,
     "dailyMinutesDown": {
-      "2024-09-12": 1
+      "2024-09-12": 11
     }
   },
   {
@@ -342,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1354,
+      "2024-09-12": 1364,
       "2024-09-11": 1440,
       "2024-09-10": 504
     }
@@ -371,11 +371,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.isfaktoring.com.tr.ico",
     "slug": "is-faktoring",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "97.53%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "97.54%",
     "time": 2408,
     "timeDay": 2662,
     "timeWeek": 2408,
@@ -402,7 +402,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1354,
+      "2024-09-12": 1364,
       "2024-09-11": 1440,
       "2024-09-10": 503
     }
@@ -680,7 +680,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1354,
+      "2024-09-12": 1364,
       "2024-09-11": 1440,
       "2024-09-10": 503
     }
