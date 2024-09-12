@@ -22,19 +22,19 @@
     "url": "https://internetsube.hdifibaemeklilik.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/internetsube.hdifibaemeklilik.com.tr.ico",
     "slug": "hdi-fiba-emeklilik-internet-sube",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1192,
     "timeDay": 1087,
     "timeWeek": 1192,
     "timeMonth": 1192,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2024-09-12": 12
+      "2024-09-12": 3
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1364,
+      "2024-09-12": 1378,
       "2024-09-11": 1440,
       "2024-09-10": 504
     }
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1364,
+      "2024-09-12": 1378,
       "2024-09-11": 1440,
       "2024-09-10": 504
     }
@@ -188,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1364,
+      "2024-09-12": 1378,
       "2024-09-11": 1440,
       "2024-09-10": 504
     }
@@ -252,19 +252,19 @@
     "url": "https://www.fibaair.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fibaair.com.tr.ico",
     "slug": "fiba-air",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1154,
     "timeDay": 1013,
     "timeWeek": 1154,
     "timeMonth": 1154,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2024-09-12": 11
+      "2024-09-12": 2
     }
   },
   {
@@ -272,19 +272,19 @@
     "url": "https://www.fibafaktoring.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fibafaktoring.com.tr.ico",
     "slug": "fiba-faktoring",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 5306,
     "timeDay": 4294,
     "timeWeek": 5306,
     "timeMonth": 5306,
     "timeYear": 5306,
     "dailyMinutesDown": {
-      "2024-09-12": 11
+      "2024-09-12": 2
     }
   },
   {
@@ -292,19 +292,19 @@
     "url": "https://www.fibagroup.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fibagroup.com.ico",
     "slug": "fiba-group",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 1674,
     "timeDay": 1622,
     "timeWeek": 1674,
     "timeMonth": 1674,
     "timeYear": 1674,
     "dailyMinutesDown": {
-      "2024-09-12": 25
+      "2024-09-12": 26
     }
   },
   {
@@ -342,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1364,
+      "2024-09-12": 1378,
       "2024-09-11": 1440,
       "2024-09-10": 504
     }
@@ -371,11 +371,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.isfaktoring.com.tr.ico",
     "slug": "is-faktoring",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "97.54%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "97.55%",
+    "uptimeYear": "97.55%",
     "time": 2408,
     "timeDay": 2662,
     "timeWeek": 2408,
@@ -402,7 +402,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1364,
+      "2024-09-12": 1378,
       "2024-09-11": 1440,
       "2024-09-10": 503
     }
@@ -649,11 +649,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.satemgrup.com.tr.ico",
     "slug": "satem-grup",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 1217,
     "timeDay": 1242,
     "timeWeek": 1217,
@@ -680,7 +680,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 1364,
+      "2024-09-12": 1378,
       "2024-09-11": 1440,
       "2024-09-10": 503
     }
