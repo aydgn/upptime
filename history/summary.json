@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 923,
+      "2024-09-15": 937,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 923,
+      "2024-09-15": 937,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -164,19 +164,19 @@
     "url": "https://www.digizoo.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.digizoo.com.tr.ico",
     "slug": "digizoo",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1529,
-    "timeDay": 1181,
-    "timeWeek": 1529,
-    "timeMonth": 1529,
-    "timeYear": 1529,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 2205,
+    "timeDay": 3099,
+    "timeWeek": 2205,
+    "timeMonth": 2205,
+    "timeYear": 2205,
     "dailyMinutesDown": {
-      "2024-09-15": 1
+      "2024-09-15": 13
     }
   },
   {
@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 923,
+      "2024-09-15": 937,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -353,7 +353,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 924,
+      "2024-09-15": 937,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -416,7 +416,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 924,
+      "2024-09-15": 937,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -465,19 +465,19 @@
     "url": "https://www.katilimemeklilik.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.katilimemeklilik.com.tr.ico",
     "slug": "katilim-emeklilik",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1569,
-    "timeDay": 1219,
-    "timeWeek": 1569,
-    "timeMonth": 1569,
-    "timeYear": 1569,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1621,
+    "timeDay": 1473,
+    "timeWeek": 1621,
+    "timeMonth": 1621,
+    "timeYear": 1621,
     "dailyMinutesDown": {
-      "2024-09-15": 1
+      "2024-09-15": 13
     }
   },
   {
@@ -699,7 +699,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 924,
+      "2024-09-15": 937,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
