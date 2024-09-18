@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 414,
+      "2024-09-18": 433,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -154,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 414,
+      "2024-09-18": 433,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 414,
+      "2024-09-18": 433,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -360,7 +360,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 414,
+      "2024-09-18": 433,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -426,7 +426,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 414,
+      "2024-09-18": 433,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -712,7 +712,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 415,
+      "2024-09-18": 433,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -836,19 +836,19 @@
     "url": "https://www.tskb.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tskb.com.tr.ico",
     "slug": "tskb",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2236,
-    "timeDay": 1467,
-    "timeWeek": 2145,
-    "timeMonth": 2236,
-    "timeYear": 2236,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 2187,
+    "timeDay": 1605,
+    "timeWeek": 2095,
+    "timeMonth": 2187,
+    "timeYear": 2187,
     "dailyMinutesDown": {
-      "2024-09-18": 0
+      "2024-09-18": 19
     }
   },
   {
