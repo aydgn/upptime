@@ -8,20 +8,14 @@ sites:
     url: https://internetsube.hdifibaemeklilik.com.tr/
   - name: Robert College
     url: https://website.robcol.k12.tr/en/home-page
-  - name: Ankutsan
-    url: https://www.ankutsan.com/
   - name: Bahçıvan Peynir
     url: https://www.bahcivanpeynir.com/
   - name: Casa Lavanda
     url: https://www.casalavanda.com.tr/
   - name: Çokyaşar Holding
     url: https://www.cokyasarholding.com.tr/
-  - name: Denak
-    url: https://www.denak.com.tr/
   - name: Digizoo
     url: https://www.digizoo.com.tr/
-  - name: Egegaz
-    url: https://www.egegaz.com.tr/
   - name: Elmas Yeşiloğlu
     url: https://www.elmasyesiloglu.com/
   - name: Erdem & Erdem
@@ -36,14 +30,10 @@ sites:
     url: https://www.fibagroup.com/
   - name: GIG
     url: https://www.gig.com.tr/
-  - name: Gulf Sigorta
-    url: https://www.gulfsigorta.com.tr/
   - name: Hotel Partner
     url: https://www.hotelpartner.com.tr/
   - name: İş Faktoring
     url: https://www.isfaktoring.com.tr/
-  - name: İzdemir
-    url: https://www.izdemir.com.tr/
   - name: İzdemir Enerji
     url: https://www.izdemirenerji.com/
   - name: Kariabel
@@ -72,8 +62,6 @@ sites:
     url: https://www.prefus.com.tr/
   - name: Satem Grup
     url: https://www.satemgrup.com.tr/
-  - name: Servisair
-    url: https://www.servisair.com.tr/
   - name: Sompo Sigorta
     url: https://www.somposigorta.com.tr/
   - name: Tatmetal
