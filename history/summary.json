@@ -583,19 +583,19 @@
     "url": "https://www.somposigorta.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.somposigorta.com.tr.ico",
     "slug": "sompo-sigorta",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1765,
-    "timeDay": 3088,
-    "timeWeek": 1928,
-    "timeMonth": 1765,
-    "timeYear": 1765,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1745,
+    "timeDay": 2678,
+    "timeWeek": 1880,
+    "timeMonth": 1745,
+    "timeYear": 1745,
     "dailyMinutesDown": {
-      "2024-09-22": 1
+      "2024-09-22": 18
     }
   },
   {
