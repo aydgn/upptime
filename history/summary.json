@@ -78,10 +78,10 @@
     "url": "https://www.casalavanda.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.casalavanda.com.tr.ico",
     "slug": "casa-lavanda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
     "time": 1858,
@@ -90,6 +90,7 @@
     "timeMonth": 1858,
     "timeYear": 1858,
     "dailyMinutesDown": {
+      "2024-10-03": 2,
       "2024-09-22": 91
     }
   },
@@ -138,10 +139,10 @@
     "url": "https://www.elmasyesiloglu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.elmasyesiloglu.com.ico",
     "slug": "elmas-yesiloglu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
     "time": 1521,
@@ -150,6 +151,7 @@
     "timeMonth": 1521,
     "timeYear": 1521,
     "dailyMinutesDown": {
+      "2024-10-03": 2,
       "2024-09-22": 90
     }
   },
@@ -158,10 +160,10 @@
     "url": "https://www.erdem-erdem.av.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.erdem-erdem.av.tr.ico",
     "slug": "erdem-and-erdem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
     "time": 1595,
@@ -170,6 +172,7 @@
     "timeMonth": 1595,
     "timeYear": 1595,
     "dailyMinutesDown": {
+      "2024-10-03": 2,
       "2024-09-22": 90
     }
   },
@@ -178,10 +181,10 @@
     "url": "https://www.erdemirozmen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.erdemirozmen.com.ico",
     "slug": "erdemir-oezmen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
     "time": 1687,
@@ -190,6 +193,7 @@
     "timeMonth": 1687,
     "timeYear": 1687,
     "dailyMinutesDown": {
+      "2024-10-03": 2,
       "2024-09-22": 89
     }
   },
@@ -334,10 +338,10 @@
     "url": "https://www.kariabel.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kariabel.com.ico",
     "slug": "kariabel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
     "time": 1015,
@@ -346,6 +350,7 @@
     "timeMonth": 1015,
     "timeYear": 1015,
     "dailyMinutesDown": {
+      "2024-10-03": 1,
       "2024-09-22": 89
     }
   },
@@ -376,10 +381,10 @@
     "url": "https://www.maxisgs.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.maxisgs.com.ico",
     "slug": "maxis-gs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
     "time": 1172,
@@ -388,6 +393,7 @@
     "timeMonth": 1172,
     "timeYear": 1172,
     "dailyMinutesDown": {
+      "2024-10-03": 1,
       "2024-09-22": 89
     }
   },
@@ -396,10 +402,10 @@
     "url": "https://www.medistate.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.medistate.com.tr.ico",
     "slug": "medistate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
     "time": 1080,
@@ -408,6 +414,7 @@
     "timeMonth": 1080,
     "timeYear": 1080,
     "dailyMinutesDown": {
+      "2024-10-03": 1,
       "2024-09-22": 89
     }
   },
@@ -416,10 +423,10 @@
     "url": "https://www.melodi.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.melodi.com.tr.ico",
     "slug": "melodi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.63%",
     "time": 1230,
@@ -428,6 +435,7 @@
     "timeMonth": 1230,
     "timeYear": 1230,
     "dailyMinutesDown": {
+      "2024-10-03": 1,
       "2024-09-24": 31,
       "2024-09-22": 89
     }
