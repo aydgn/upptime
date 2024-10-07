@@ -424,11 +424,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.melodi.com.tr.ico",
     "slug": "melodi",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 1239,
     "timeDay": 1229,
     "timeWeek": 1357,
@@ -601,12 +601,12 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
     "time": 1808,
     "timeDay": 1165,
-    "timeWeek": 1387,
+    "timeWeek": 1464,
     "timeMonth": 1808,
     "timeYear": 1808,
     "dailyMinutesDown": {
@@ -695,9 +695,9 @@
     "url": "https://www.tosyaliholding.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tosyaliholding.com.tr.ico",
     "slug": "tosyali-holding",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -706,7 +706,9 @@
     "timeWeek": 1567,
     "timeMonth": 1670,
     "timeYear": 1670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-07": 0
+    }
   },
   {
     "name": "TSKB",
