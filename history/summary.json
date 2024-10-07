@@ -760,19 +760,19 @@
     "url": "https://www.ubcchemicals.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ubcchemicals.com.ico",
     "slug": "ubc-chemicals",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3015,
-    "timeDay": 4126,
-    "timeWeek": 3573,
-    "timeMonth": 3015,
-    "timeYear": 3015,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3046,
+    "timeDay": 4032,
+    "timeWeek": 3618,
+    "timeMonth": 3046,
+    "timeYear": 3046,
     "dailyMinutesDown": {
-      "2024-10-07": 0
+      "2024-10-07": 12
     }
   },
   {
