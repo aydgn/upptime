@@ -445,10 +445,10 @@
     "url": "https://www.miilux.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.miilux.com.tr.ico",
     "slug": "miilux",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 1988,
@@ -457,6 +457,7 @@
     "timeMonth": 1988,
     "timeYear": 1988,
     "dailyMinutesDown": {
+      "2024-10-09": 1,
       "2024-09-18": 47,
       "2024-09-16": 17
     }
@@ -682,7 +683,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 2422,
-    "timeDay": 2502,
+    "timeDay": 2742,
     "timeWeek": 2731,
     "timeMonth": 2422,
     "timeYear": 2422,
