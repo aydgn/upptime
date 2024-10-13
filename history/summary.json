@@ -61,18 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bahcivanpeynir.com.ico",
     "slug": "bahcivan-peynir",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 2067,
     "timeDay": 2176,
     "timeWeek": 2059,
     "timeMonth": 2051,
     "timeYear": 2067,
     "dailyMinutesDown": {
-      "2024-10-13": 12,
       "2024-10-09": 20
     }
   },
@@ -556,19 +555,19 @@
     "url": "https://www.penta.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.penta.com.tr.ico",
     "slug": "penta",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 1392,
-    "timeDay": 1866,
-    "timeWeek": 1326,
+    "timeDay": 1616,
+    "timeWeek": 1330,
     "timeMonth": 1381,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2024-10-13": 0
+      "2024-10-13": 65
     }
   },
   {
