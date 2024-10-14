@@ -656,19 +656,19 @@
     "url": "https://www.tebfaktoring.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tebfaktoring.com.tr.ico",
     "slug": "teb-faktoring",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.94%",
-    "time": 2881,
-    "timeDay": 6498,
-    "timeWeek": 3372,
-    "timeMonth": 2910,
-    "timeYear": 2881,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
+    "time": 2969,
+    "timeDay": 6396,
+    "timeWeek": 3685,
+    "timeMonth": 3009,
+    "timeYear": 2969,
     "dailyMinutesDown": {
-      "2024-10-14": 29
+      "2024-10-14": 39
     }
   },
   {
