@@ -60,10 +60,10 @@
     "url": "https://www.bahcivanpeynir.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.bahcivanpeynir.com.ico",
     "slug": "bahcivan-peynir",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "91.14%",
-    "uptimeWeek": "98.73%",
+    "uptimeDay": "91.05%",
+    "uptimeWeek": "98.72%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.76%",
     "time": 2502,
@@ -72,7 +72,7 @@
     "timeMonth": 2623,
     "timeYear": 2502,
     "dailyMinutesDown": {
-      "2024-10-22": 127,
+      "2024-10-22": 128,
       "2024-10-09": 20
     }
   },
