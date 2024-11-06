@@ -1,7 +1,7 @@
 url: https://www.tskb.com.tr/
-status: up
-code: 200
-responseTime: 2041
-lastUpdated: 2024-11-05T23:07:47.507Z
+status: down
+code: 503
+responseTime: 1492
+lastUpdated: 2024-11-06T16:22:38.026Z
 startTime: 2024-09-10T15:37:24.067Z
 generator: Upptime <https://github.com/upptime/upptime>
