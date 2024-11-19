@@ -147,7 +147,7 @@
     "uptimeYear": "99.25%",
     "time": 1357,
     "timeDay": 1507,
-    "timeWeek": 1247,
+    "timeWeek": 1251,
     "timeMonth": 1224,
     "timeYear": 1357,
     "dailyMinutesDown": {
@@ -425,7 +425,7 @@
     "uptimeYear": "99.30%",
     "time": 1425,
     "timeDay": 1894,
-    "timeWeek": 1420,
+    "timeWeek": 1422,
     "timeMonth": 1413,
     "timeYear": 1425,
     "dailyMinutesDown": {
@@ -603,9 +603,9 @@
     "url": "https://www.ozersoylar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ozersoylar.com.ico",
     "slug": "oezersoylar",
-    "status": "up",
+    "status": "down",
     "uptime": "97.78%",
-    "uptimeDay": "0.89%",
+    "uptimeDay": "1.87%",
     "uptimeWeek": "78.54%",
     "uptimeMonth": "95.06%",
     "uptimeYear": "97.78%",
@@ -615,7 +615,7 @@
     "timeMonth": 802,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2024-11-19": 1392,
+      "2024-11-19": 1393,
       "2024-11-18": 771,
       "2024-10-16": 16,
       "2024-09-21": 74
