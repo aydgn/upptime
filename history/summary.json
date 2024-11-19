@@ -603,10 +603,10 @@
     "url": "https://www.ozersoylar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ozersoylar.com.ico",
     "slug": "oezersoylar",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "2.81%",
-    "uptimeWeek": "85.40%",
+    "uptimeDay": "3.61%",
+    "uptimeWeek": "85.39%",
     "uptimeMonth": "96.64%",
     "uptimeYear": "98.45%",
     "time": 835,
@@ -615,7 +615,7 @@
     "timeMonth": 816,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2024-11-19": 701,
+      "2024-11-19": 702,
       "2024-11-18": 771,
       "2024-10-16": 16,
       "2024-09-21": 74
