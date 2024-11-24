@@ -1,7 +1,7 @@
 url: https://www.digizoo.com.tr/
-status: up
-code: 200
-responseTime: 1020
-lastUpdated: 2024-11-24T03:41:43.652Z
+status: down
+code: 503
+responseTime: 1233
+lastUpdated: 2024-11-24T07:23:29.181Z
 startTime: 2024-09-10T15:36:04.553Z
 generator: Upptime <https://github.com/upptime/upptime>
